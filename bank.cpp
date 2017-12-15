@@ -1,4 +1,3 @@
-//Atinesh Singh "The Name That You Never Forget"
 #include<iostream.h>
 #include<stdio.h>
 #include<conio.h>
